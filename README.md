@@ -20,3 +20,6 @@ Generador de paypal, basado en un authotoken temporal que incrementa una vulnera
 -Elige la Cantidad ⚠️(No abusen)⚠️
 
 -Solo se puede usar 1 vez cada 24h
+
+file:///C:/Users/sergi/Pictures/paypal/Imagen1.jpg.png
+file:///C:/Users/sergi/Pictures/paypal/Imagen1.png
