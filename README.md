@@ -10,4 +10,4 @@ Generador de paypal, basado en un authotoken temporal que incrementa una vulnera
 
 -Extraer en una carpeta y abrir
 
--Ejecutar generador-paypal.exe
+-Ejecutar generador-paypal.exe o generador-paypal.jar
