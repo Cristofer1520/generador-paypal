@@ -11,3 +11,9 @@ Generador de paypal, basado en un authotoken temporal que incrementa una vulnera
 -Extraer en una carpeta y abrir
 
 -Ejecutar generador-paypal.exe o generador-paypal.jar
+
+-Ingresa su nombre de usuario de PayPal o su número de telefono
+
+-Elige la Cantidad ⚠️(No abusen)⚠️
+
+-Solo se puede usar 1 vez cada 24h
